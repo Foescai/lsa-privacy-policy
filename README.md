@@ -1,6 +1,10 @@
-# LSA – Privacy Policy
+**🌐 Language / Idioma:** [English](#english) · [Português](#portugues)
 
-*Português abaixo · Portuguese version below*
+---
+
+<a id="english"></a>
+
+# LSA – Privacy Policy
 
 **Last updated:** November 3, 2026
 
@@ -88,6 +92,8 @@ LSA is a professional tool and is not intended for people under 18.
 This policy may be updated. The current version is always available at this address, with the date of the last update.
 
 ---
+
+<a id="portugues"></a>
 
 # LSA – Política de Privacidade
 
